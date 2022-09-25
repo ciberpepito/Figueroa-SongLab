@@ -45,6 +45,6 @@ Tipografia secundaria:[Abyssinica SIL](https://fonts.google.com/specimen/Abyssin
 
 ### Logo
 
-![logo] (https://github.com/ciberpepito/Figueroa-SongLab/blob/main/logoSongLab.png?raw=true)
+![logo] (/logoSongLab.png)
 
 

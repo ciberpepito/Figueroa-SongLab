@@ -11,7 +11,7 @@ La idea de esta pagina surge como una respuesta a la necesidad de interconectar 
 
 2.Compra y venta de servicios de mezcla y masterizacion entre usuarios
 
-3.Foro dividido en tematicas como **genero musical, **se busca..., **tipo de proyecto, **etc,  
+3.Foro dividido en tematicas como *genero musical*,*se busca...*,*tipo de proyecto*,*etc*  
 
 4.Seccion de novedades de artistas nuevos,
 

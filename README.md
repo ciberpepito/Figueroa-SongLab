@@ -21,7 +21,9 @@ Tipografia secundaria:[Abyssinica SIL](https://fonts.google.com/specimen/Abyssin
 
 [Paleta 1](https://colorhunt.co/palette/0000003e065f700b978e05c2): `#000000` `#3E065F` `#700B97` `#8E05C2`  
 
-[Paleta 2](https://colorhunt.co/palette/0000003d0000950101ff0000)
+[Paleta 2](https://colorhunt.co/palette/0000003d0000950101ff0000):
+`#000000``#3D0000``#950101``#FF0000`
 
-[Paleta 3](https://colorhunt.co/palette/2e0249570a57a91079f806cc)
+[Paleta 3](https://colorhunt.co/palette/2e0249570a57a91079f806cc):
+`#2E0249``#570A57``#A91079``#F806CC`
 

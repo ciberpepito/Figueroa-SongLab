@@ -17,3 +17,11 @@ Tipografia principal:[Raleway](https://fonts.google.com/specimen/Raleway?preview
 
 Tipografia secundaria:[Abyssinica SIL](https://fonts.google.com/specimen/Abyssinica+SIL?subset=latin-ext&preview.text=profesional&preview.text_type=custom)
 
+### Paleta de colores
+
+[Paleta 1](https://colorhunt.co/palette/0000003e065f700b978e05c2)
+
+[Paleta 2](https://colorhunt.co/palette/0000003d0000950101ff0000)
+
+[Paleta 3](https://colorhunt.co/palette/2e0249570a57a91079f806cc)
+

@@ -8,10 +8,14 @@ La idea de esta pagina surge como una respuesta a la necesidad de interconectar 
 ### Listado de servicios
 
 1.Compra y Venta de beats entre usuarios
+
 2.Compra y venta de servicios de mezcla y masterizacion entre usuarios
+
 3.Foro dividido en tematicas como **genero musical, **se busca..., **tipo de proyecto, **etc,  
+
 4.Seccion de novedades de artistas nuevos,
-5.Integracion con redes sociales
+
+5.Integracion con redes sociales.
 
 
 ### Público objetivo

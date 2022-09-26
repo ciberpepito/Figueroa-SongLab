@@ -1,37 +1,37 @@
 # Figueroa-SongLab :headphones:
 ## E-commerce de beats y servicios musicales
 
-### Breve historia de la pagina
+### Breve historia de la página
 
-***SongLab*** surge como una respuesta a la necesidad de interconectar musicxs, productores, compositores, y artistxs en general que busquen piezas de audio o requieran servicios de composicion,produccion, mezcla, masterizacion de audio para sus proyectos propios.
+***SongLab*** surge como una respuesta a la necesidad de interconectar musicxs, productores, compositores, y artistxs en general, que busquen piezas de audio o requieran servicios de composición, producción,  mezcla o masterización de audio para sus proyectos propios.
 
 ### Listado de servicios
 
 1. Compra y Venta de :musical_note: beats :musical_note: entre usuarios
 
-2. Compra y venta de servicios de :studio_microphone: mezcla y :level_slider: masterizacion entre usuarios
+2. Compra y venta de servicios de :studio_microphone: mezcla y :level_slider: masterización entre usuarios
 
-3. Foro dividido en tematicas como: 
-     - *genero musical* :headphones:
+3. Foro dividido en temáticas como: 
+     - *género musical* :headphones:
      - *se busca...* :loudspeaker:
      - *tipo de proyecto* :bulb:
      - *etc* :soon:
 
-4. Seccion de novedades de artistas nuevos :woman_singer: :alien: :man_singer: :space_invader: :robot: 
+4. Sección de novedades de artistas nuevos :woman_singer: :alien: :man_singer: :space_invader: :robot: 
 
-5. Integracion con redes sociales :speaking_head: :busts_in_silhouette:
+5. Integración con redes sociales :speaking_head: :busts_in_silhouette:
 
 
 ### Público objetivo
 
-Personas artistas, productorxs, empresas audiovisuales, que necesiten piezas de audio de calidad profesional para sus proyectos audiovisuales.
+Personas artistas, productorxs, empresas audiovisuales que necesiten piezas de audio de calidad profesional para sus proyectos audiovisuales.
 
-### Tipografia empleada
+### Tipografía empleada
 
-Tipografia principal:[Raleway](https://fonts.google.com/specimen/Raleway?preview.text=profesional&preview.size=34&preview.text_type=custom&subset=latin-ext#styles)
+Tipografía principal:[Raleway](https://fonts.google.com/specimen/Raleway?preview.text=profesional&preview.size=34&preview.text_type=custom&subset=latin-ext#styles)
 
 
-Tipografia secundaria:[Abyssinica SIL](https://fonts.google.com/specimen/Abyssinica+SIL?subset=latin-ext&preview.text=profesional&preview.text_type=custom)
+Tipografía secundaria:[Abyssinica SIL](https://fonts.google.com/specimen/Abyssinica+SIL?subset=latin-ext&preview.text=profesional&preview.text_type=custom)
 
 ### Paleta de colores
 

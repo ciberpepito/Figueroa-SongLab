@@ -17,9 +17,9 @@
      - *tipo de proyecto* :bulb:
      - *etc* :soon:
 
-4. Seccion de novedades de artistas nuevos :woman_singer: :alien: :man_singer: :space_invader: :robot: ,
+4. Seccion de novedades de artistas nuevos :woman_singer: :alien: :man_singer: :space_invader: :robot: 
 
-5. Integracion con redes sociales.
+5. Integracion con redes sociales :speaking_head: :busts_in_silhouette:
 
 
 ### Público objetivo

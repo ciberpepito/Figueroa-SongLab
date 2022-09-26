@@ -17,7 +17,7 @@ La idea de esta pagina surge como una respuesta a la necesidad de interconectar 
      - *tipo de proyecto* :bulb:
      - *etc* :soon:
 
-4. Seccion de novedades de artistas nuevos,
+4. Seccion de novedades de artistas nuevos :woman_singer: :alien: :man_singer: :space_invader: :robot: ,
 
 5. Integracion con redes sociales.
 
@@ -54,6 +54,136 @@ Tipografia secundaria:[Abyssinica SIL](https://fonts.google.com/specimen/Abyssin
 ![logo](/logoSongLab.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 :trollface:
 
 
 

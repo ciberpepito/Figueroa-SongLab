@@ -9,10 +9,10 @@ La idea de esta pagina surge como una respuesta a la necesidad de interconectar 
 
 1. Compra y Venta de :musical_note: beats :musical_note: entre usuarios
 
-2. Compra y venta de servicios de mezcla y masterizacion entre usuarios
+2. Compra y venta de servicios de :studio_microphone: mezcla y :level_slider: masterizacion entre usuarios
 
 3. Foro dividido en tematicas como: 
-     - *genero musical* 
+     - *genero musical* :headphones:
      - *se busca...* 
      - *tipo de proyecto* 
      - *etc*  

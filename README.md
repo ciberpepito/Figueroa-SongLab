@@ -7,7 +7,7 @@ La idea de esta pagina surge como una respuesta a la necesidad de interconectar 
 
 ### Listado de servicios
 
-1. Compra y Venta de beats entre usuarios
+1. Compra y Venta de :musical_note: beats :musical_note: entre usuarios
 
 2. Compra y venta de servicios de mezcla y masterizacion entre usuarios
 

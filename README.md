@@ -13,9 +13,9 @@ La idea de esta pagina surge como una respuesta a la necesidad de interconectar 
 
 3. Foro dividido en tematicas como: 
      - *genero musical* :headphones:
-     - *se busca...* 
-     - *tipo de proyecto* 
-     - *etc*  
+     - *se busca...* :loudspeaker:
+     - *tipo de proyecto* :bulb:
+     - *etc* :soon:
 
 4. Seccion de novedades de artistas nuevos,
 

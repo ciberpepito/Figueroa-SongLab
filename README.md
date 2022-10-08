@@ -49,9 +49,19 @@ Tipografía secundaria:[Abyssinica SIL](https://fonts.google.com/specimen/Abyssi
 
 ![Paleta3](/paleta3.png)
 
+Paleta 4
+
+`#FFE600` `#8E05C2` `#000000`
+
 ### Logo
 
 ![logo](/logoSongLab.png)
+
+### FIGMA
+
+[Link de FIGMA](https://www.figma.com/file/cmY7sm7rqblH55DEDY97GN/Song-Lab-wireframe?node-id=4%3A4)
+
+
 
 
 
